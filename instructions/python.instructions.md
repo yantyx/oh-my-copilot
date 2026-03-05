@@ -2,8 +2,6 @@
 description: 'Python coding conventions and guidelines'
 paths:
   - '**/*.py'
-
-# Copied from https://github.com/github/awesome-copilot/blob/main/instructions/python.instructions.md
 ---
 
 # Python Coding Conventions

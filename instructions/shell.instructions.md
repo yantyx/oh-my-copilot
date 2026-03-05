@@ -2,8 +2,6 @@
 description: 'Shell scripting best practices and conventions for bash, sh, zsh, and other shells'
 paths:
   - '**/*.sh'
-
-# Copied from https://github.com/github/awesome-copilot/blob/main/instructions/shell.instructions.md
 ---
 
 # Shell Scripting Guidelines

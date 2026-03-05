@@ -3,8 +3,6 @@ description: 'PowerShell cmdlet and scripting best practices based on Microsoft 
 paths:
   - '**/*.ps1'
   - '**/*.psm1'
-
-# Copied from https://github.com/github/awesome-copilot/blob/main/instructions/powershell.instructions.md
 ---
 
 # PowerShell Cmdlet Development Guidelines
