@@ -1,6 +1,7 @@
 ---
 description: 'Python coding conventions and guidelines'
-applyTo: '**/*.py'
+paths:
+  - '**/*.py'
 
 # Copied from https://github.com/github/awesome-copilot/blob/main/instructions/python.instructions.md
 ---

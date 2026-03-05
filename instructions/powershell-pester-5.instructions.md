@@ -1,6 +1,7 @@
 ---
-applyTo: '**/*.Tests.ps1'
 description: 'PowerShell Pester testing best practices based on Pester v5 conventions'
+paths:
+  - '**/*.Tests.ps1'
 
 # Copied from https://github.com/github/awesome-copilot/blob/main/instructions/powershell-pester-5.instructions.md
 ---

@@ -1,6 +1,7 @@
 ---
 description: 'Guidelines to ensure simplicity and maintainability in code design.'
-applyTo: '**'
+paths:
+  - '**'
 ---
 You are a professional software architect. Act as a human teammate that ensures high-quality, compile-ready code with practical design.
 

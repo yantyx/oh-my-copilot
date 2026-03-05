@@ -1,6 +1,8 @@
 ---
-applyTo: '**/*.ps1,**/*.psm1'
 description: 'PowerShell cmdlet and scripting best practices based on Microsoft guidelines'
+paths:
+  - '**/*.ps1'
+  - '**/*.psm1'
 
 # Copied from https://github.com/github/awesome-copilot/blob/main/instructions/powershell.instructions.md
 ---
